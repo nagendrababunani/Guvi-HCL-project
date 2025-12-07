@@ -2,9 +2,7 @@
 
 A Java-based application to collect, store, manage, and analyze customer feedback in real time using MongoDB and Doubly Linked List data structure.
 
----
-
-## 📌 Overview
+##  Overview
 
 This project provides an automated solution for feedback handling, enabling:
 
@@ -19,7 +17,7 @@ The system integrates Java with MongoDB for persistent storage while using Doubl
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Java (JDK 8+)
 - MongoDB
@@ -29,7 +27,7 @@ The system integrates Java with MongoDB for persistent storage while using Doubl
 
 ---
 
-## ⚙ System Requirements
+##  System Requirements
 
 ### Hardware
 - Minimum: Intel i3, 4GB RAM
@@ -42,7 +40,7 @@ The system integrates Java with MongoDB for persistent storage while using Doubl
 
 ---
 
-## 📌 Architecture
+##  Architecture
 
 1. Start application  
 2. Connect with MongoDB database  
@@ -54,7 +52,7 @@ The system integrates Java with MongoDB for persistent storage while using Doubl
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 src/
 └── RealTimeCustomerFeedbackAggregator.java
@@ -73,7 +71,7 @@ Copy code
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Start MongoDB Service
 
@@ -97,14 +95,14 @@ Copy code
 ```sh
 javac RealTimeCustomerFeedbackAggregator.java
 java RealTimeCustomerFeedbackAggregator
-📷 Output Examples
+ Output Examples
 Console interaction (menu input/output)
 
 MongoDB Compass entries display
 
 (Add your screenshots here)
 
-📝 Conclusion
+ Conclusion
 This project demonstrates:
 
 Java + MongoDB integration
@@ -119,12 +117,12 @@ Real-time analytics
 
 It improves accuracy, performance, and decision-making based on customer responses.
 
-👤 Author
+ Author
 BUCHAKKAGARI NAGENDRA BABU
 Under HCL GUVI Training Certification
 
-⭐ Support
-If you like this project, please give it a ⭐ on GitHub!
+ Support
+If you like this project, please give it a  on GitHub!
 
 yaml
 Copy code
