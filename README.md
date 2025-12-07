@@ -57,12 +57,10 @@ The system integrates Java with MongoDB for persistent storage while using Doubl
 src/
 └── RealTimeCustomerFeedbackAggregator.java
 
-yaml
-Copy code
 
 ---
 
-## 🧩 Features Breakdown
+##  Features Breakdown
 
 ✔ CLI user menu  
 ✔ Doubly linked list for fast access  
